@@ -6,7 +6,7 @@ Saya seorang **mahasiswi** tahun ketiga di [Politeknik Negeri Semarang](https://
  
 Saya sangat senang belajar hal baru :) <br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rucirasatti/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rucirasatti/) ku ya.
  
 ### Github Statistic
 <p align="left">
